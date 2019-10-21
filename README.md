@@ -1,0 +1,2 @@
+# amino
+GitHub Pages
